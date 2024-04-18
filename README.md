@@ -18,15 +18,15 @@
 
     -   [x] README
 
--   [x] [miniRT](https://github.com/manettifabrizio/42cursus_miniRT)
+-   [x] [miniRT](https://github.com/manettifabrizio/42cursus_miniRT) X
 
-    -   [x] README
+    -   [ ] README
 
 -   [ ] [ft_services](https://github.com/manettifabrizio/42cursus_ft_services)
 
     -   [ ] README
 
--   [ ] [minishell](https://github.com/manettifabrizio/42cursus_minishell)
+-   [ ] [minishell](https://github.com/manettifabrizio/42cursus_minishell) X
 
     -   [ ] README
 
@@ -42,11 +42,11 @@
 
     -   [ ] README
 
--   [ ] [ft_irc](https://github.com/manettifabrizio/42cursus_ft_irc)
+-   [ ] [ft_irc](https://github.com/manettifabrizio/42cursus_ft_irc) X
 
     -   [ ] README
 
--   [ ] [ft_transcendance](https://github.com/PZGM/Transcendance)
+-   [ ] [ft_transcendance](https://github.com/PZGM/Transcendance) X
 
     -   [ ] README
 
@@ -55,4 +55,17 @@
     -   [x] README
 
 -   [x] [darkly](https://github.com/manettifabrizio/42cursus_darkly)
+
+    -   [x] README
+
+-   [x] [matcha](https://github.com/manettifabrizio/42cursus_darkly) X
+
+    -   [x] README
+
+-   [x] [swifty-companion](https://github.com/manettifabrizio/42cursus_darkly) X
+
+    -   [x] README
+
+-   [ ] [swifty-proteins](https://github.com/manettifabrizio/42cursus_darkly)
+
     -   [x] README
