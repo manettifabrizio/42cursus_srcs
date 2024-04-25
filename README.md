@@ -26,7 +26,7 @@
 
     -   [ ] README
 
--   [ ] [minishell](https://github.com/manettifabrizio/42cursus_minishell) X
+-   [ ] [minishell](https://github.com/manettifabrizio/42cursus_minishell)
 
     -   [ ] README
 
@@ -42,13 +42,13 @@
 
     -   [ ] README
 
--   [ ] [ft_irc](https://github.com/manettifabrizio/42cursus_ft_irc) X
+-   [ ] [ft_irc](https://github.com/manettifabrizio/42cursus_ft_irc)
 
     -   [ ] README
 
--   [ ] [ft_transcendance](https://github.com/PZGM/Transcendance) X
+-   [x] [ft_transcendance](https://github.com/PZGM/Transcendance)
 
-    -   [ ] README
+    -   [x] README
 
 -   [x] [override](https://github.com/manettifabrizio/42cursus_override)
 
@@ -58,14 +58,14 @@
 
     -   [x] README
 
--   [x] [matcha](https://github.com/manettifabrizio/42cursus_darkly) X
+-   [x] [matcha](https://github.com/manettifabrizio/42cursus_darkly)
 
     -   [x] README
 
--   [x] [swifty-companion](https://github.com/manettifabrizio/42cursus_darkly) X
+-   [x] [swifty-companion](https://github.com/manettifabrizio/42cursus_darkly)
 
     -   [x] README
 
 -   [ ] [swifty-proteins](https://github.com/manettifabrizio/42cursus_darkly)
 
-    -   [x] README
+    -   [ ] README
